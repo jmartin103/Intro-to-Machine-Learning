@@ -1,9 +1,3 @@
-% Name: John W. Martin
-% Due Date: October 29, 2018
-% Course: Intro to Machine Learning
-% Instructor: Daniel Pimentel-Alarcon
-% Homework 3
-
 % Read original image
 original_img = imread('20180531_132756.jpg');
 original_img = imrotate(original_img, 90); % Rotate 90 degrees
