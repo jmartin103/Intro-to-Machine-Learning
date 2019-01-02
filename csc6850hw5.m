@@ -1,8 +1,4 @@
-% Name: John W. Martin
-% Due Date: November 12, 2018
-% Intro to Machine Learning
-% Instructor: Daniel Pimentel-Alarcon
-% Homework 5
+% Calculating entropy in machine learning
 
 % Problem 1
 p_0 = 0:0.01:1; % Probability that P = 0
